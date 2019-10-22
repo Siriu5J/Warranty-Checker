@@ -8,5 +8,5 @@ Currently they include:
 4. Lenovo
 5. Acer
 
-Note:
+<b>Note:</b>
 Windows Defender SmartScreen might prompt that "Windows protected your PC". Select "More info" then select "run anyway." This script is totally safe to use.
